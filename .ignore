@@ -1,0 +1,6 @@
+# Vendored third-party library: LibMpc.net (Copyright 2008 Matthias Sessler, LGPL-2.1+), MPD client library bundled as source.
+Gmpd/libmpc/
+
+# MonoDevelop/MSBuild build output and Stetic GUI-designer generated code.
+Gmpd/bin/
+Gmpd/gtk-gui/*.cs
