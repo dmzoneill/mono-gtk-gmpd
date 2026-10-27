@@ -1,5 +1,9 @@
 # Gmpd
 
+<p align="center">
+  <img src=".github/logo.png" alt="mono-gtk-gmpd logo" width="128" />
+</p>
+
 A Mono GTK# client for MPD, the Music Player Daemon.
 
 ## What it does
